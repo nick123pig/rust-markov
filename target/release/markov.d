@@ -1,1 +1,1 @@
-/Users/n/projects/rust-markov/target/release/markov: /Users/n/projects/rust-markov/src/main.rs
+/home/ubuntu/rust-markov/target/release/markov: /home/ubuntu/rust-markov/src/main.rs
