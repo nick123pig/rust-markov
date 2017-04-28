@@ -1,0 +1,8 @@
+[package]
+
+name = "markov"
+version = "0.0.1"
+authors = [ "Your name <you@example.com>" ]
+
+[dependencies]
+markov = "0.0.32"
